@@ -1,0 +1,14 @@
+1. Android基础
+   1. 四大组件
+   3. 消息机制
+   2. View
+   3. 跨进程
+   3. 动画
+   4. 优化
+1. Android常用框架
+    1. okhttp 
+    2. retrofit 
+    3. rxjava
+1. Java基础
+1. Java设计模式
+1. 数据结构和算法
